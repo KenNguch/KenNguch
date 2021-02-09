@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋🏻, I'm Ken</h1>
 <h3 align="center">I'm a Student, Developer :octocat:, Tech Enthusiast !</h3>
-<br>
 
 - 💻 I’m currently specializing on **Backend** and learning  **Android**📱
 
@@ -8,7 +7,7 @@
 
 - 📖 Long story short:
 
-&emsp;:poultry_leg:	 Eat 💻 Code 💪🏽 Train ♻️ Repeat
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:poultry_leg:	 Eat 💻 Code 💪🏽 Train ♻️ Repeat
 - Feel free to reach out 💬
 
 ### 🛠 &nbsp;Tech Stack
