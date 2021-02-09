@@ -90,7 +90,7 @@ Here are a few things I've picked up along my learning journey.
 
 ### 📞 Get in touch
 
-<p>
+<p align="center">
 <a href="https://github.com/kennguch"><img alt="github" width="7%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
 <a href="https://www.linkedin.com/in/ken-nguch-984055160"><img alt="linkedin" width="7%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
 <a href="https://twitter.com/KenNguch"><img alt="linkedin" width="7%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/twitter.png"/></a>
