@@ -24,6 +24,8 @@
 ![WordPress](https://img.shields.io/badge/-WordPress-05122A?style=flat&logo=WordPress)&nbsp;
 ![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnu-bash)&nbsp;
 ![Json](https://img.shields.io/badge/-Json-05122A?style=flat&logo=Json)&nbsp;
+![JWT](https://img.shields.io/badge/-jwt-05122A?style=flat&logo=jwt)&nbsp;
+
 
 - ####  👨🏽‍💻 CI/CD
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
@@ -48,18 +50,20 @@
 
 <details>
 <summary><b> ⚙️ &nbsp;GitHub Analytics</b>:</summary>
+[![Ken's GitHub stats](https://github-readme-stats.vercel.app/api?username=kennguch)](https://github.com/kennguch/github-readme-stats)
 
-### :thinking: I want to learn:
 
-- Next.js
+<summary><b> ⚙️ &nbsp;GitHub Analytics</b>:</summary>### :pushpin: I want to learn:
+
+- Android 
 - GraphQL
-- Contentful
+- Docker
+- Kubernetes
 
 ### Outside of coding I enjoy:
 
 - Playing video games :video_game:
-- Skateboarding :skateboard:
-- Bowling :bowling:
-- Sci-fi movies/tv shows :vulcan_salute:
+- Listening to music :musical_note:
+- Tech Documentaries,Geeky Sitcoms :vulcan_salute:
 
 </details>
