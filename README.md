@@ -1,18 +1,16 @@
 
 
+ <h1 align="center">Hi 👋🏻, I'm Ken</h1>
+<h3 align="center">I'm a Student, Developer, Tech Enthusiast !</h3>
 
-#### 🔭 I’m currently looking for new opportunities
+#### 💻 I’m currently specializing on about **Backend**
 
+#### 🔭 I’m currently looking for new opportunities<br>
 
+### 🛠 &nbsp;Tech Stack
+ Here are a few things I've picked up along my learning journey.
 
-
-
-
-
-#### 🛠 &nbsp;Tech Stack
-#### Here are a few things I've picked up along my learning journey.
-
-#### Languages
+- #### Languages
 
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP)&nbsp;
@@ -27,16 +25,19 @@
 ![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnu-bash)&nbsp;
 ![Json](https://img.shields.io/badge/-Json-05122A?style=flat&logo=Json)&nbsp;
 
-####  👨🏽‍💻 CI/CD
+- ####  👨🏽‍💻 CI/CD
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![GitLab](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=gitlab)&nbsp;
 
 
-#### 🛠 Tools
+- #### 🛠 Tools
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=Postman)&nbsp;
 ![Jetbrains](https://img.shields.io/badge/-Jetbrains-05122A?style=flat&logo=Jetbrains)&nbsp;
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=android-studio&logoColor=007ACC)&nbsp;
+![windows](https://img.shields.io/badge/-windows-05122A?style=flat&logo=windows)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![intellij](https://img.shields.io/badge/-intellij-05122A?style=flat&logo=intellij)&nbsp;
+
 
 ### 📞 Get in touch
 <p>
@@ -45,5 +46,20 @@
 <a href="https://twitter.com/KenNguch"><img alt="linkedin" width="7%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/twitter.png"/></a>
 </p>
 
+<details>
+<summary><b> ⚙️ &nbsp;GitHub Analytics</b>:</summary>
 
-### ⚙️ &nbsp;GitHub Analytics
+### :thinking: I want to learn:
+
+- Next.js
+- GraphQL
+- Contentful
+
+### Outside of coding I enjoy:
+
+- Playing video games :video_game:
+- Skateboarding :skateboard:
+- Bowling :bowling:
+- Sci-fi movies/tv shows :vulcan_salute:
+
+</details>
