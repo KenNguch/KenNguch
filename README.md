@@ -1,4 +1,4 @@
-<h1 align="center">  Hi 👋🏻, I'm Ken</h1>
+<h1 align="center">  Hi 👋🏻, I'm Ken <img src="giphy.gif" width="40"></h1>
 
 <h3 align="center">I'm a Student, Developer :octocat:, Tech Enthusiast !</h3>
 
@@ -60,6 +60,7 @@ Here are a few things I've picked up along my learning journey.
 <details>
 
 <summary><b> :pushpin: &nbsp;I want to learn</b></summary>
+<br>
 
 - Android
 - GraphQL
@@ -69,6 +70,7 @@ Here are a few things I've picked up along my learning journey.
 
 <details>
 <summary><b> Outside of coding I enjoy</b></summary>
+<br>
 
 - Playing video games :video_game:
 - Listening to music :musical_note:
@@ -77,12 +79,14 @@ Here are a few things I've picked up along my learning journey.
 
 <details>
 <summary> <b>🌱 Challenges that I’m currently challenging myself:</b></summary>
+<br>
 <!-- gif Image -->
-<img src="https://github.com/JoykishanSharma/JoykishanSharma/blob/master/life_balance.gif" alt="side Image" align="center" width="460" height="auto" />
+<img src="life_balance.gif" alt="side Image" align="center" width="460" height="auto" />
 </details>
 
 <details>
 <summary> <b> Favourite Repo</b></summary>
+<br>
 
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kennguch&repo=Solutech-Interview-Solution&theme=chartreuse-dark)
 
@@ -90,7 +94,7 @@ Here are a few things I've picked up along my learning journey.
 
 ### 📞 Get in touch
 
-<p align="center">
+<p>
 <a href="https://github.com/kennguch"><img alt="github" width="7%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
 <a href="https://www.linkedin.com/in/ken-nguch-984055160"><img alt="linkedin" width="7%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
 <a href="https://twitter.com/KenNguch"><img alt="linkedin" width="7%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/twitter.png"/></a>
