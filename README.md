@@ -1,11 +1,13 @@
+<h1 align="center">Hi 👋🏻, I'm Ken</h1>
+<h3 align="center">I'm a Student, Developer :octocat:, Tech Enthusiast !</h3>
 
-
- <h1 align="center">Hi 👋🏻, I'm Ken</h1>
-<h3 align="center">I'm a :clipboard: Student, Developer, Tech Enthusiast !</h3>
-
-#### 💻 I’m currently specializing on about **Backend**
+#### 💻 I’m currently specializing on **Backend** and learning  **Android**📱
 
 #### 🔭 I’m currently looking for new opportunities<br>
+
+
+#### 📖 Long story short:
+:poultry_leg:	 Eat 💻 Code 💪🏽 Train ♻️ Repeat
 
 ### 🛠 &nbsp;Tech Stack
  Here are a few things I've picked up along my learning journey.
@@ -40,6 +42,29 @@
 ![windows](https://img.shields.io/badge/-windows-05122A?style=flat&logo=windows)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
+<details>
+<summary><b> ⚙️ &nbsp;GitHub Analytics</b>:</summary>
+<br>
+
+[![Ken's GitHub stats](https://github-readme-stats.vercel.app/api?username=kennguch&theme=chartreuse-dark&show_icons=true)](https://github.com/kennguch/github-readme-stats)
+
+<br>
+
+
+<summary><b> :pushpin: &nbsp;I want to learn:</b>:</summary> 
+
+- Android 
+- GraphQL
+- Docker
+- Kubernetes
+
+<summary><b> Outside of coding I enjoy:</b>:</summary> 
+
+- Playing video games :video_game:
+- Listening to music :musical_note:
+- Tech Documentaries,Geeky Sitcoms :vulcan_salute:
+
+</details>
 
 ### 📞 Get in touch
 <p>
@@ -48,23 +73,3 @@
 <a href="https://twitter.com/KenNguch"><img alt="linkedin" width="7%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/twitter.png"/></a>
 </p>
 
-<details>
-<summary><b> ⚙️ &nbsp;GitHub Analytics</b>:</summary>
-
-[![Ken's GitHub stats](https://github-readme-stats.vercel.app/api?username=kennguch)](https://github.com/kennguch/github-readme-stats)
-
-
-<summary><b> ⚙️ &nbsp;GitHub Analytics</b>:</summary>### :pushpin: I want to learn:
-
-- Android 
-- GraphQL
-- Docker
-- Kubernetes
-
-### Outside of coding I enjoy:
-
-- Playing video games :video_game:
-- Listening to music :musical_note:
-- Tech Documentaries,Geeky Sitcoms :vulcan_salute:
-
-</details>
