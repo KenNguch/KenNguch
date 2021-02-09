@@ -90,6 +90,7 @@ Here are a few things I've picked up along my learning journey.
 
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kennguch&repo=Solutech-Interview-Solution&theme=chartreuse-dark)
 
+
 </details>
 
 ### 📞 Get in touch
