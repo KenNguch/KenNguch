@@ -1,7 +1,7 @@
 
 
  <h1 align="center">Hi 👋🏻, I'm Ken</h1>
-<h3 align="center">I'm a Student, Developer, Tech Enthusiast !</h3>
+<h3 align="center">I'm a :clipboard: Student, Developer, Tech Enthusiast !</h3>
 
 #### 💻 I’m currently specializing on about **Backend**
 
@@ -50,6 +50,7 @@
 
 <details>
 <summary><b> ⚙️ &nbsp;GitHub Analytics</b>:</summary>
+
 [![Ken's GitHub stats](https://github-readme-stats.vercel.app/api?username=kennguch)](https://github.com/kennguch/github-readme-stats)
 
 
