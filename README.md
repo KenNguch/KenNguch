@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋🏻, I'm &lt;p&gt; Ken&lt;/p&gt;</h1>
+<h1 align="center">Hi 👋🏻, I'm Ken</h1>
 <h3 align="center">I'm a Student, Developer :octocat:, Tech Enthusiast !</h3>
 
 - 💻 I’m currently specializing on **Backend** and learning  **Android**📱
@@ -50,21 +50,22 @@
 [![Ken's GitHub stats](https://github-readme-stats.vercel.app/api?username=kennguch&theme=chartreuse-dark&show_icons=true)](https://github.com/kennguch/github-readme-stats)
 
 <br>
+</details>
+<details>
 
-
-<summary><b> :pushpin: &nbsp;I want to learn:</b>:</summary> 
+<summary><b> :pushpin: &nbsp;I want to learn</b></summary>
 
 - Android 
 - GraphQL
 - Docker
 - Kubernetes
-
-<summary><b> Outside of coding I enjoy:</b>:</summary> 
+</details>
+<details>
+<summary><b> Outside of coding I enjoy</b></summary> 
 
 - Playing video games :video_game:
 - Listening to music :musical_note:
 - Tech Documentaries,Geeky Sitcoms :vulcan_salute:
-
 </details>
 
 ### 📞 Get in touch
