@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋🏻, I'm Ken</h1>
 <h3 align="center">I'm a Student, Developer :octocat:, Tech Enthusiast !</h3>
+<br>
 
-#### 💻 I’m currently specializing on **Backend** and learning  **Android**📱
+- 💻 I’m currently specializing on **Backend** and learning  **Android**📱
 
-#### 🔭 I’m currently looking for new opportunities<br>
+- 🔭 I’m currently looking for new opportunities
 
+- 📖 Long story short:
 
-#### 📖 Long story short:
-:poultry_leg:	 Eat 💻 Code 💪🏽 Train ♻️ Repeat
+&emsp;:poultry_leg:	 Eat 💻 Code 💪🏽 Train ♻️ Repeat
+- Feel free to reach out 💬
 
 ### 🛠 &nbsp;Tech Stack
  Here are a few things I've picked up along my learning journey.
