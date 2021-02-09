@@ -1,17 +1,20 @@
-<h1 align="center">Hi 👋🏻, I'm Ken</h1>
+<h1 align="center">  Hi 👋🏻, I'm Ken</h1>
+
 <h3 align="center">I'm a Student, Developer :octocat:, Tech Enthusiast !</h3>
 
-- 💻 I’m currently specializing on **Backend** and learning  **Android**📱
+- 💻 I’m currently specializing on **Backend** and learning **Android**📱
 
 - 🔭 I’m currently looking for new opportunities
 
 - 📖 Long story short:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:poultry_leg:	 Eat 💻 Code 💪🏽 Train ♻️ Repeat
-- Feel free to reach out 💬
+  - :poultry_leg: Eat 💻 Code 💪🏽 Train ♻️ Repeat
+
+* Feel free to reach out 💬
 
 ### 🛠 &nbsp;Tech Stack
- Here are a few things I've picked up along my learning journey.
+
+Here are a few things I've picked up along my learning journey.
 
 - #### Languages
 
@@ -29,49 +32,66 @@
 ![Json](https://img.shields.io/badge/-Json-05122A?style=flat&logo=Json)&nbsp;
 ![JWT](https://img.shields.io/badge/-jwt-05122A?style=flat&logo=jwt)&nbsp;
 
+- #### 👨🏽‍💻 CI/CD
 
-- ####  👨🏽‍💻 CI/CD
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![GitLab](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=gitlab)&nbsp;
-
+  ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+  ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+  ![GitLab](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=gitlab)&nbsp;
 
 - #### 🛠 Tools
-![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=Postman)&nbsp;
-![Jetbrains](https://img.shields.io/badge/-Jetbrains-05122A?style=flat&logo=Jetbrains)&nbsp;
-![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=android-studio&logoColor=007ACC)&nbsp;
-![windows](https://img.shields.io/badge/-windows-05122A?style=flat&logo=windows)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+  ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=Postman)&nbsp;
+  ![Jetbrains](https://img.shields.io/badge/-Jetbrains-05122A?style=flat&logo=Jetbrains)&nbsp;
+  ![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=android-studio&logoColor=007ACC)&nbsp;
+  ![windows](https://img.shields.io/badge/-windows-05122A?style=flat&logo=windows)&nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 <details>
-<summary><b> ⚙️ &nbsp;GitHub Analytics</b>:</summary>
+<summary><b> ⚙️ &nbsp;GitHub Analytics</b></summary>
 <br>
-
-[![Ken's GitHub stats](https://github-readme-stats.vercel.app/api?username=kennguch&theme=chartreuse-dark&show_icons=true)](https://github.com/kennguch/github-readme-stats)
-
+<a href="#">
+  <img  src="https://github-readme-stats.vercel.app/api?username=kennguch&theme=chartreuse-dark&show_icons=true" />
+</a>
+<a href="#">
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kennguch&show_icons=true&theme=chartreuse-dark&layout=compact" />
+</a>
 <br>
 </details>
+
 <details>
 
 <summary><b> :pushpin: &nbsp;I want to learn</b></summary>
 
-- Android 
+- Android
 - GraphQL
 - Docker
 - Kubernetes
 </details>
+
 <details>
-<summary><b> Outside of coding I enjoy</b></summary> 
+<summary><b> Outside of coding I enjoy</b></summary>
 
 - Playing video games :video_game:
 - Listening to music :musical_note:
 - Tech Documentaries,Geeky Sitcoms :vulcan_salute:
 </details>
 
+<details>
+<summary> <b>🌱 Challenges that I’m currently challenging myself:</b></summary>
+<!-- gif Image -->
+<img src="https://github.com/JoykishanSharma/JoykishanSharma/blob/master/life_balance.gif" alt="side Image" align="center" width="460" height="auto" />
+</details>
+
+<details>
+<summary> <b> Favourite Repo</b></summary>
+
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kennguch&repo=Solutech-Interview-Solution&theme=chartreuse-dark)
+
+</details>
+
 ### 📞 Get in touch
+
 <p>
 <a href="https://github.com/kennguch"><img alt="github" width="7%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
 <a href="https://www.linkedin.com/in/ken-nguch-984055160"><img alt="linkedin" width="7%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
 <a href="https://twitter.com/KenNguch"><img alt="linkedin" width="7%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/twitter.png"/></a>
 </p>
-
