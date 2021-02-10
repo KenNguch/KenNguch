@@ -100,4 +100,10 @@ Here are a few things I've picked up along my learning journey.
 </a>
 <a href="mailto:kennguch3@gmail.com?subject=From Your Github Buddy"><img alt="Gmail" width="7%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/gmail.png"/>
 </a>
+
 </p>
+<object data="resume.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="resume.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="resume.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
