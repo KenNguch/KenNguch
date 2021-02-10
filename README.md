@@ -102,8 +102,3 @@ Here are a few things I've picked up along my learning journey.
 </a>
 
 </p>
-
-![kichwa](resume.pdf)
-
-
-
