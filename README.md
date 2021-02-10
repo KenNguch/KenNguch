@@ -1,15 +1,14 @@
-<h1 align="center">  Hi 👋🏻, I'm Ken <img src="giphy.gif" width="40"></h1>
+# <center> Hi 👋🏻, I'm Ken <img src="giphy.gif" width="40"></h1></center>
+## <center> I'm a **Student** , **Backend Developer :octocat:, Tech** & **:penguin: Enthusiast**! </center>
 
-<h3 align="center" ><u>I'm a Student, Developer :octocat:, Tech & 🐧 Enthusiast !</u></h3><br>
-
-- 💻 I’m currently specializing on <u>**Backend**</u> and learning <u>**Android**📱</u>
+- 💻 I’m currently specializing on <u>**Backend**</u> and learning <u>**Android**📱.</u>
 
 - 📖 Long story short:
 
-  - :poultry_leg: Eat 💻 Code 💪🏽 Train ♻️ Repeat
+  - :poultry_leg: Eat 💻 Code 💪🏽 Train ♻️ Repeat.
 
-- 🔭 I’m currently looking for new opportunities
-- 💬 Feel free to reach out <a href="mailto:someone@yoursite.com"> :email: me </a>
+- 🔭 I’m currently looking for new opportunities.
+- 💬 Feel free to reach out <a href="mailto:kennguch3@gmail.com?subject=From Your Github Buddy"> :email: me </a>
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -48,10 +47,10 @@ Here are a few things I've picked up along my learning journey.
 <summary><b> ⚙️ &nbsp;GitHub Analytics</b></summary>
 <br>
 <a href="#">
-  <img  src="https://github-readme-stats.vercel.app/api?username=kennguch&theme=chartreuse-dark&show_icons=true" />
+  <img  src="https://github-readme-stats.vercel.app/api?username=kennguch&theme=chartreuse-dark&show_icons=true&count_private=true&hide_rank=true" />
 </a>
 <a href="#">
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kennguch&show_icons=true&theme=chartreuse-dark&layout=compact" />
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kennguch&show_icons=true&theme=chartreuse-dark&layout=compact&count_private=true" />
 </a>
 <br>
 </details>
@@ -67,7 +66,7 @@ Here are a few things I've picked up along my learning journey.
 </details>
 
 <details>
-<summary><b> Outside of coding I enjoy</b></summary>
+<summary><b>:globe_with_meridians: Outside of coding I enjoy</b></summary>
 <br>
 
 - Playing video games :video_game:
@@ -79,11 +78,11 @@ Here are a few things I've picked up along my learning journey.
 <summary> <b>🌱 Challenges that I’m currently challenging myself:</b></summary>
 <br>
 <!-- gif Image -->
-<img src="life_balance.gif" alt="side Image" align="center" width="460" height="auto" />
+<img src="life_balance.gif" alt="side Image" width="460" height="auto" />
 </details>
 
 <details>
-<summary> <b> Favourite Repo</b></summary>
+<summary><b>:heart: Favourite Repo</b></summary>
 <br>
 
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kennguch&repo=Solutech-Interview-Solution&theme=chartreuse-dark)
@@ -93,9 +92,12 @@ Here are a few things I've picked up along my learning journey.
 ### 📞 Get in touch
 
 <p>
-<a href="https://github.com/kennguch"><img alt="github" width="7%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
-<a href="https://www.linkedin.com/in/ken-nguch-984055160"><img alt="linkedin" width="7%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
-<a href="https://twitter.com/KenNguch"><img alt="twitter" width="7%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/twitter.png"/></a>
-<a href="mailto:kennguch3@gmail.com"><img alt="Gmail" width="7%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/gmail.png"/></a>
-
+<a href="https://github.com/kennguch"><img alt="github" width="7%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/>
+</a>
+<a href="https://www.linkedin.com/in/ken-nguch-984055160"><img alt="linkedin" width="7%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/>
+</a>
+<a href="https://twitter.com/KenNguch"><img alt="twitter" width="7%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/twitter.png"/>
+</a>
+<a href="mailto:kennguch3@gmail.com?subject=From Your Github Buddy"><img alt="Gmail" width="7%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/gmail.png"/>
+</a>
 </p>
