@@ -1,16 +1,15 @@
 <h1 align="center">  Hi 👋🏻, I'm Ken <img src="giphy.gif" width="40"></h1>
 
-<h3 align="center">I'm a Student, Developer :octocat:, Tech Enthusiast !</h3>
+<h3 align="center" ><u>I'm a Student, Developer :octocat:, Tech & 🐧 Enthusiast !</u></h3><br>
 
-- 💻 I’m currently specializing on **Backend** and learning **Android**📱
-
-- 🔭 I’m currently looking for new opportunities
+- 💻 I’m currently specializing on <u>**Backend**</u> and learning <u>**Android**📱</u>
 
 - 📖 Long story short:
 
   - :poultry_leg: Eat 💻 Code 💪🏽 Train ♻️ Repeat
 
-* Feel free to reach out 💬
+- 🔭 I’m currently looking for new opportunities
+- 💬 Feel free to reach out <a href="mailto:someone@yoursite.com"> :email: me </a>
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -18,19 +17,19 @@ Here are a few things I've picked up along my learning journey.
 
 - #### Languages
 
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=Laravel)&nbsp;
-![Android](https://img.shields.io/badge/-Android-05122A?style=flat&logo=Android)&nbsp;
-![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=Linux&)&nbsp;
-![MYSQL](https://img.shields.io/badge/-MYSQL-05122A?style=flat&logo=MYSQL)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=PostgreSQL)&nbsp;
-![WordPress](https://img.shields.io/badge/-WordPress-05122A?style=flat&logo=WordPress)&nbsp;
-![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnu-bash)&nbsp;
-![Json](https://img.shields.io/badge/-Json-05122A?style=flat&logo=Json)&nbsp;
-![JWT](https://img.shields.io/badge/-jwt-05122A?style=flat&logo=jwt)&nbsp;
+  ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+  ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP)&nbsp;
+  ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+  ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+  ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=Laravel)&nbsp;
+  ![Android](https://img.shields.io/badge/-Android-05122A?style=flat&logo=Android)&nbsp;
+  ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=Linux&)&nbsp;
+  ![MYSQL](https://img.shields.io/badge/-MYSQL-05122A?style=flat&logo=MYSQL)&nbsp;
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=PostgreSQL)&nbsp;
+  ![WordPress](https://img.shields.io/badge/-WordPress-05122A?style=flat&logo=WordPress)&nbsp;
+  ![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnu-bash)&nbsp;
+  ![Json](https://img.shields.io/badge/-Json-05122A?style=flat&logo=Json)&nbsp;
+  ![JWT](https://img.shields.io/badge/-jwt-05122A?style=flat&logo=jwt)&nbsp;
 
 - #### 👨🏽‍💻 CI/CD
 
@@ -58,7 +57,6 @@ Here are a few things I've picked up along my learning journey.
 </details>
 
 <details>
-
 <summary><b> :pushpin: &nbsp;I want to learn</b></summary>
 <br>
 
@@ -90,7 +88,6 @@ Here are a few things I've picked up along my learning journey.
 
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kennguch&repo=Solutech-Interview-Solution&theme=chartreuse-dark)
 
-
 </details>
 
 ### 📞 Get in touch
@@ -98,5 +95,7 @@ Here are a few things I've picked up along my learning journey.
 <p>
 <a href="https://github.com/kennguch"><img alt="github" width="7%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
 <a href="https://www.linkedin.com/in/ken-nguch-984055160"><img alt="linkedin" width="7%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
-<a href="https://twitter.com/KenNguch"><img alt="linkedin" width="7%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/twitter.png"/></a>
+<a href="https://twitter.com/KenNguch"><img alt="twitter" width="7%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/twitter.png"/></a>
+<a href="mailto:kennguch3@gmail.com"><img alt="Gmail" width="7%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/gmail.png"/></a>
+
 </p>
