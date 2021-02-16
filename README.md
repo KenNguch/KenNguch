@@ -8,7 +8,7 @@
   - :poultry_leg: Eat 💻 Code 💪🏽 Train ♻️ Repeat.
 
 - 🔭 I’m currently looking for new opportunities.
-- 💬 Feel free to reach out <a href="mailto:kennguch3@gmail.com?subject=From Your Github Buddy"> :email: me </a>
+- 💬 Feel free to reach out <a href="mailto:kennguch3@gmail.com?subject=From Your Github Buddy">:email:</a>
 
 ### 🛠 &nbsp;Tech Stack
 
