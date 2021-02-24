@@ -1,5 +1,5 @@
 # <center> Hi 👋🏻, I'm Ken <img src="giphy.gif" width="40"></h1></center>
-## <center> I'm a **Student** , **Backend Developer :octocat:, Tech** & **:penguin: Enthusiast**! </center>
+## <center> I'm a **Backend Developer :octocat: and  Tech** & **:penguin: Enthusiast**! </center>
 
 - 💻 I’m currently specializing on <u>**Backend**</u> and learning <u>**Android**📱.</u>
 
