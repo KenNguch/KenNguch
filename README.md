@@ -1,47 +1,54 @@
-# <center> Hi 👋🏻, I'm Ken <img src="giphy.gif" width="40"></h1></center>
-## <center> I'm a **Backend Developer :octocat: and  Tech** & **:penguin: Enthusiast**! </center>
+# <center> Hi 👋🏻, I'm **Ken** <img src="giphy.gif" width="40"></h1></center>
+## <center> I'm a **Web Developer :octocat: and a  Tech**  **:penguin: Enthusiast**! </center>
 
-- 💻 I’m currently specializing on <u>**Backend**</u> and learning <u>**Android**📱.</u>
+- 💻 I’m currently specializing on <u>**Web Development**</u> and learning <u>**Android**📱.</u>
 
 - 📖 Long story short:
 
-  - :poultry_leg: Eat 💻 Code 💪🏽 Train ♻️ Repeat.
+  - :poultry_leg: Eat :desktop_computer: Code :sleeping_bed:	 Sleep ♻️ Repeat.
 
 - 🔭 I’m currently looking for new opportunities.
 - 💬 Feel free to reach out <a href="mailto:kennguch3@gmail.com?subject=From Your Github Buddy">:email:</a>
 
-### 🛠 &nbsp;Tech Stack
+### 🛠 &nbsp;Tech Stack :brain:
 
 Here are a few things I've picked up along my learning journey.
 
-- #### Languages
+- #### BackEnd and Database.
 
-  ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+  ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=red)&nbsp;
   ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP)&nbsp;
-  ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-  ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
   ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=Laravel)&nbsp;
-  ![Android](https://img.shields.io/badge/-Android-05122A?style=flat&logo=Android)&nbsp;
+  ![Android](https://img.shields.io/badge/-Android-05122A?style=flat&logo=Android&logoColor=success)&nbsp;
   ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=Linux&)&nbsp;
-  ![MYSQL](https://img.shields.io/badge/-MYSQL-05122A?style=flat&logo=MYSQL)&nbsp;
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=PostgreSQL)&nbsp;
-  ![WordPress](https://img.shields.io/badge/-WordPress-05122A?style=flat&logo=WordPress)&nbsp;
-  ![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnu-bash)&nbsp;
+  ![MYSQL](https://img.shields.io/badge/-MYSQL-05122A?style=flat&logo=MYSQL&logoColor=blue))&nbsp;
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=PostgreSQL&logoColor=blue)&nbsp;
+  ![WordPress](https://img.shields.io/badge/-WordPress-05122A?style=flat&logo=WordPress&logoColor=blue)&nbsp;
+  ![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnu-bash&logoColor=success)&nbsp;
   ![Json](https://img.shields.io/badge/-Json-05122A?style=flat&logo=Json)&nbsp;
-  ![JWT](https://img.shields.io/badge/-jwt-05122A?style=flat&logo=jwt)&nbsp;
 
-- #### 👨🏽‍💻 CI/CD
+- #### FrontEnd Languages
+  ![JS](https://img.shields.io/badge/-Javascript-05122A?style=social&logo=Javascript&logoColor=FFA518)&nbsp;
+  ![REACT](https://img.shields.io/badge/-React-05122A?style=social&logo=React&logoColor=0000ff)&nbsp;
+  ![HTML](https://img.shields.io/badge/-HTML5-05122A?style=social&logo=HTML5)&nbsp;
+  ![CSS](https://img.shields.io/badge/-CSS-05122A?style=social&logo=CSS3)&nbsp;
+
+
+- #### :electron:	 CI/CD
 
   ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
   ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
   ![GitLab](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=gitlab)&nbsp;
+  ![TFS](https://img.shields.io/badge/-TFS-05122A?style=flat&logo=tfs&logoColor=blue)&nbsp;
+  ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker)&nbsp;
 
 - #### 🛠 Tools
-  ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=Postman)&nbsp;
-  ![Jetbrains](https://img.shields.io/badge/-Jetbrains-05122A?style=flat&logo=Jetbrains)&nbsp;
-  ![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=android-studio&logoColor=007ACC)&nbsp;
-  ![windows](https://img.shields.io/badge/-windows-05122A?style=flat&logo=windows)&nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+  ![Postman](https://img.shields.io/badge/-Postman-05122A?style=plastic&logo=Postman&logoColor=orange)&nbsp;
+  ![Insomnia](https://img.shields.io/badge/-Insomnia-05122A?style=plastic&logo=Insomnia&logoColor=1572B6)&nbsp;
+  ![Jetbrains](https://img.shields.io/badge/-Jetbrains-05122A?style=plastic&logo=Intellij-idea&logoColor=)&nbsp;
+  ![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=plastic&logo=android&logoColor=success)&nbsp;
+  ![windows](https://img.shields.io/badge/-windows-05122A?style=plastic&logo=windows&logoColor=blue)&nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=plastic&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 <details>
 <summary><b> ⚙️ &nbsp;GitHub Analytics</b></summary>
@@ -56,15 +63,14 @@ Here are a few things I've picked up along my learning journey.
 </details>
 
 <details>
-<summary><b> :pushpin: &nbsp;I want to learn</b></summary>
+<summary><b> :pushpin: &nbsp;I want to learn </b></summary>
 <br>
-
+  
 - Android
 - GraphQL
 - Docker
 - Kubernetes
 </details>
-
 <details>
 <summary><b>:globe_with_meridians: Outside of coding I enjoy</b></summary>
 <br>
@@ -78,7 +84,7 @@ Here are a few things I've picked up along my learning journey.
 <summary> <b>🌱 Challenges that I’m currently challenging myself:</b></summary>
 <br>
 <!-- gif Image -->
-<img src="life_balance.gif" alt="side Image" width="460" height="auto" />
+<img src="life_balance.gif" alt="side Image" width="250" height="250" />
 </details>
 
 <details>
