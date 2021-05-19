@@ -1,4 +1,5 @@
-# <center> Hi 👋🏻, I'm **Ken** <img src="giphy.gif" width="40"></h1></center>
+# <center> Hi 👋🏻, I'm **Ken** <img src="giphy.gif" width="40"></center>
+## <center>**:kenya:**</center>
 ## <center> I'm a **Web Developer :octocat: and a  Tech**  **:penguin: Enthusiast**! </center>
 
 - 💻 I’m currently specializing on <u>**Web Development**</u> and learning <u>**Android**📱.</u>
