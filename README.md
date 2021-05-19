@@ -64,15 +64,14 @@ Here are a few things I've picked up along my learning journey.
 
 <details>
 <summary><b> :pushpin: &nbsp;I want to learn </b></summary>
-<br>
-- Android
-- GraphQL
-- Docker
-- Kubernetes
+
+  - Android
+  - GraphQL
+  - Docker
+  - Kubernetes
 </details>
 <details>
 <summary><b>:globe_with_meridians: Outside of coding I enjoy</b></summary>
-<br>
 
 - Playing video games :video_game:
 - Listening to music :musical_note:
