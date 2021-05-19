@@ -1,11 +1,11 @@
-# <div style="text-align: center">Hi 👋🏻, I'm **Ken** <img src="giphy.gif" height="25" width="30"> </div>
-## <center> I'm a **Web Developer :octocat: and a  Tech**  **:penguin: Enthusiast**<img src="kenya.gif" height="30" width="30" align ="right"> </center>
+# <div style="text-align: center">Hi 👋🏻, I'm **Ken** <img src="giphy.gif" height="25" width="30"><img src="kenya.gif" height="30" width="30" align ="right"> </div>
+## <center> I'm a **Web Developer :octocat: and a  Tech**  **:penguin: Enthusiast** </center>
 
 - 💻 I’m currently specializing on <u>**Web Development**</u> and learning <u>**Android**📱.</u>
 
 - 📖 Long story short:
 
-  - :poultry_leg: Eat :desktop_computer: Code :sleeping_bed:	 Sleep ♻️ Repeat.
+  - :poultry_leg: Eat&nbsp; :desktop_computer: Code &nbsp; :sleeping_bed:	 Sleep &nbsp; ♻️ Repeat.
 
 - 🔭 I’m currently looking for new opportunities.
 - 💬 Feel free to reach out <a href="mailto:kennguch3@gmail.com?subject=From Your Github Buddy">:email:</a>
