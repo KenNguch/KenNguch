@@ -65,7 +65,6 @@ Here are a few things I've picked up along my learning journey.
 <details>
 <summary><b> :pushpin: &nbsp;I want to learn </b></summary>
 <br>
-  
 - Android
 - GraphQL
 - Docker
