@@ -60,6 +60,9 @@ Here are a few things I've picked up along my learning journey.
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kennguch&show_icons=true&theme=chartreuse-dark&layout=compact&count_private=true" />
 </a>
 <br>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+<br>
 </details>
 
 <details>
