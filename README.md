@@ -53,6 +53,13 @@ Here are a few things I've picked up along my learning journey.
 <details>
 <summary><b> ⚙️ &nbsp;GitHub Analytics</b></summary>
 <br>
+
+<!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
+<!--END_SECTION:waka-->
+<br>
 <a href="#">
   <img  src="https://github-readme-stats.vercel.app/api?username=kennguch&theme=chartreuse-dark&show_icons=true&count_private=true&hide_rank=true" />
 </a>
@@ -60,12 +67,7 @@ Here are a few things I've picked up along my learning journey.
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kennguch&show_icons=true&theme=chartreuse-dark&layout=compact&count_private=true" />
 </a>
 <br>
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
-<br>
+
 </details>
 
 <details>
