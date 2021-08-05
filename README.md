@@ -56,7 +56,9 @@ Here are a few things I've picked up along my learning journey.
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+JavaScript   53 mins         ███████████████████████░░   92.06 % 
+YAML         2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+Markdown     1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
 ```
 <!--END_SECTION:waka-->
 <br>
