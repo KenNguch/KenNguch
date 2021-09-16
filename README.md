@@ -56,11 +56,11 @@ Here are a few things I've picked up along my learning journey.
 
 <!--START_SECTION:waka-->
 ```text
-ASP.NET      18 hrs 58 mins  █████████████████████░░░░   84.58 % 
-Other        2 hrs 32 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
-JavaScript   23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
-C#           19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
-VB.NET       10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
+ASP.NET      22 hrs 23 mins  ██████████████████████░░░   87.49 % 
+C#           1 hr 15 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
+Other        1 hr 4 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
+VB.NET       27 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
+JavaScript   23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
 ```
 <!--END_SECTION:waka-->
 <br>
