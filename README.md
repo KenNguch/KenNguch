@@ -120,5 +120,5 @@ Other        1 hr 23 mins    ██▓░░░░░░░░░░░░░░
 </p>
 
 
-![](https://komarev.com/ghpvc/?username=KenNguch)
+![](https://komarev.com/ghpvc/?username=KenNguch&color=2478b7)
 
