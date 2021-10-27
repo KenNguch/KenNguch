@@ -56,11 +56,11 @@ Here are a few things I've picked up along my learning journey.
 
 <!--START_SECTION:waka-->
 ```text
-SQL          5 hrs 20 mins   ████████████▓░░░░░░░░░░░░   51.25 % 
-C#           4 hrs 2 mins    █████████▓░░░░░░░░░░░░░░░   38.77 % 
-Other        27 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
-Markdown     12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
-JavaScript   8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
+C#         5 hrs 5 mins    ████████████░░░░░░░░░░░░░   47.82 % 
+SQL        3 hrs 59 mins   █████████▒░░░░░░░░░░░░░░░   37.57 % 
+Other      42 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
+ASP.NET    30 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
+Markdown   12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
 ```
 <!--END_SECTION:waka-->
 <br>
