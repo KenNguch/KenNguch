@@ -14,14 +14,14 @@
 
 Here are a few things I've picked up along my learning journey.
 
-- #### :star:BackEnd and Database.
+- #### ✧BackEnd and Database.
 
   ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java&logoColor=red)&nbsp;
-  :star:![JS](https://img.shields.io/badge/-Express%20Js-05122A?style=FLAT&logo=node&logoColor=FFA518)&nbsp;
-  :star:![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=Laravel)&nbsp;
+  ✧![JS](https://img.shields.io/badge/-Express%20Js-05122A?style=FLAT&logo=node&logoColor=FFA518)&nbsp;
+  ✧![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=Laravel)&nbsp;
   ![C#](https://img.shields.io/badge/-Csharp-05122A?style=flat&logo=C#)&nbsp;
   ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP)&nbsp;  
-  :star:![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=Linux&)&nbsp;
+  ✧![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=Linux&)&nbsp;
   ![MYSQL](https://img.shields.io/badge/-MYSQL-05122A?style=flat&logo=MYSQL&logoColor=blue)&nbsp;
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=PostgreSQL&logoColor=blue)&nbsp;
   ![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnu-bash&logoColor=success)&nbsp;
@@ -35,9 +35,9 @@ Here are a few things I've picked up along my learning journey.
 
 - #### :electron:	 CI/CD
 
-  :star:![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker)&nbsp;
-  :star:![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-  :star:![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+  ✧![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker)&nbsp;
+  ✧![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+  ✧![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
   ![GitLab](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=gitlab)&nbsp;
   ![TFS](https://img.shields.io/badge/-TFS-05122A?style=flat&logo=tfs&logoColor=blue)&nbsp;
 
