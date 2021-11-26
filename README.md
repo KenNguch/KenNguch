@@ -14,15 +14,14 @@
 
 Here are a few things I've picked up along my learning journey.
 
-- #### BackEnd and Database.:star:
+- #### :star:BackEnd and Database.
 
   ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java&logoColor=red)&nbsp;
-  ![JS](https://img.shields.io/badge/-Express%20Js-05122A?style=FLAT&logo=node&logoColor=FFA518)&nbsp;:star:
-  ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=Laravel)&nbsp;:star:
+  :star:![JS](https://img.shields.io/badge/-Express%20Js-05122A?style=FLAT&logo=node&logoColor=FFA518)&nbsp;
+  :star:![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=Laravel)&nbsp;
   ![C#](https://img.shields.io/badge/-Csharp-05122A?style=flat&logo=C#)&nbsp;
-  ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP)&nbsp;
-  
-  ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=Linux&)&nbsp;
+  ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP)&nbsp;  
+  :star:![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=Linux&)&nbsp;
   ![MYSQL](https://img.shields.io/badge/-MYSQL-05122A?style=flat&logo=MYSQL&logoColor=blue)&nbsp;
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=PostgreSQL&logoColor=blue)&nbsp;
   ![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnu-bash&logoColor=success)&nbsp;
@@ -36,9 +35,9 @@ Here are a few things I've picked up along my learning journey.
 
 - #### :electron:	 CI/CD
 
-  ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker)&nbsp;:star:
-  ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;:star:
-  ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;:star:
+  :star:![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker)&nbsp;
+  :star:![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+  :star:![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
   ![GitLab](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=gitlab)&nbsp;
   ![TFS](https://img.shields.io/badge/-TFS-05122A?style=flat&logo=tfs&logoColor=blue)&nbsp;
 
@@ -46,9 +45,9 @@ Here are a few things I've picked up along my learning journey.
   ![Postman](https://img.shields.io/badge/-Postman-05122A?style=plastic&logo=Postman&logoColor=orange)&nbsp;
   ![Swagger](https://img.shields.io/badge/-Swagger-05122A?style=plastic&logo=Swagger&logoColor=green)&nbsp;
   ![Redis](https://img.shields.io/badge/-Redis-05122A?style=plastic&logo=Redis&logoColor=red)&nbsp;
-  ![Insomnia](https://img.shields.io/badge/-Insomnia-05122A?style=plastic&logo=Insomnia&logoColor=1572B6)&nbsp;
-  ![Jetbrains](https://img.shields.io/badge/-Jetbrains-05122A?style=plastic&logo=Intellij-idea&logoColor=#FF7439)&nbsp;
-   ![windows](https://img.shields.io/badge/-windows-05122A?style=plastic&logo=windows&logoColor=blue)&nbsp;
+  :star:![Insomnia](https://img.shields.io/badge/-Insomnia-05122A?style=plastic&logo=Insomnia&logoColor=1572B6)&nbsp;
+  :star:![Jetbrains](https://img.shields.io/badge/-Jetbrains-05122A?style=plastic&logo=Intellij-idea&logoColor=#FF7439)&nbsp;
+  ![Windows](https://img.shields.io/badge/-windows-05122A?style=plastic&logo=windows&logoColor=blue)&nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=plastic&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 <details>
