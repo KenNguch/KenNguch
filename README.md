@@ -14,7 +14,7 @@
 
 Here are a few things I've picked up along my learning journey.
 
-- #### ✧BackEnd and Database.
+- #### ✧ BackEnd and Database.
 
   ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java&logoColor=red)&nbsp;
   ✧![JS](https://img.shields.io/badge/-Express%20Js-05122A?style=FLAT&logo=node&logoColor=FFA518)&nbsp;
