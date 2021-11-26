@@ -14,40 +14,41 @@
 
 Here are a few things I've picked up along my learning journey.
 
-- #### BackEnd and Database.
+- #### BackEnd and Database.:star:
 
-  ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=red)&nbsp;
+  ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java&logoColor=red)&nbsp;
+  ![JS](https://img.shields.io/badge/-Express%20Js-05122A?style=FLAT&logo=node&logoColor=FFA518)&nbsp;:star:
+   ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=Laravel)&nbsp;:star:
+  ![C#](https://img.shields.io/badge/-Csharp-05122A?style=flat&logo=C#)&nbsp;
   ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP)&nbsp;
-  ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=Laravel)&nbsp;
-  ![Android](https://img.shields.io/badge/-Android-05122A?style=flat&logo=Android&logoColor=success)&nbsp;
+  
   ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=Linux&)&nbsp;
-  ![MYSQL](https://img.shields.io/badge/-MYSQL-05122A?style=flat&logo=MYSQL&logoColor=blue))&nbsp;
+  ![MYSQL](https://img.shields.io/badge/-MYSQL-05122A?style=flat&logo=MYSQL&logoColor=blue)&nbsp;
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=PostgreSQL&logoColor=blue)&nbsp;
-  ![WordPress](https://img.shields.io/badge/-WordPress-05122A?style=flat&logo=WordPress&logoColor=blue)&nbsp;
   ![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnu-bash&logoColor=success)&nbsp;
   ![Json](https://img.shields.io/badge/-Json-05122A?style=flat&logo=Json)&nbsp;
 
 - #### FrontEnd Languages
   ![JS](https://img.shields.io/badge/-Javascript-05122A?style=social&logo=Javascript&logoColor=FFA518)&nbsp;
-  ![REACT](https://img.shields.io/badge/-React-05122A?style=social&logo=React&logoColor=0000ff)&nbsp;
   ![HTML](https://img.shields.io/badge/-HTML5-05122A?style=social&logo=HTML5)&nbsp;
   ![CSS](https://img.shields.io/badge/-CSS-05122A?style=social&logo=CSS3)&nbsp;
 
 
 - #### :electron:	 CI/CD
 
-  ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-  ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+  ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker)&nbsp;:star:
+  ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;:star:
+  ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;:star:
   ![GitLab](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=gitlab)&nbsp;
   ![TFS](https://img.shields.io/badge/-TFS-05122A?style=flat&logo=tfs&logoColor=blue)&nbsp;
-  ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker)&nbsp;
 
 - #### 🛠 Tools
   ![Postman](https://img.shields.io/badge/-Postman-05122A?style=plastic&logo=Postman&logoColor=orange)&nbsp;
+  ![Swagger](https://img.shields.io/badge/-Swagger-05122A?style=plastic&logo=Swagger&logoColor=green)&nbsp;
+  ![Redis](https://img.shields.io/badge/-Redis-05122A?style=plastic&logo=Redis&logoColor=red)&nbsp;
   ![Insomnia](https://img.shields.io/badge/-Insomnia-05122A?style=plastic&logo=Insomnia&logoColor=1572B6)&nbsp;
-  ![Jetbrains](https://img.shields.io/badge/-Jetbrains-05122A?style=plastic&logo=Intellij-idea&logoColor=)&nbsp;
-  ![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=plastic&logo=android&logoColor=success)&nbsp;
-  ![windows](https://img.shields.io/badge/-windows-05122A?style=plastic&logo=windows&logoColor=blue)&nbsp;
+  ![Jetbrains](https://img.shields.io/badge/-Jetbrains-05122A?style=plastic&logo=Intellij-idea&logoColor=#FF7439)&nbsp;
+   ![windows](https://img.shields.io/badge/-windows-05122A?style=plastic&logo=windows&logoColor=blue)&nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=plastic&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 <details>
@@ -120,5 +121,4 @@ VB.NET       29 mins         ▒░░░░░░░░░░░░░░░░
 </p>
 
 
-![](https://komarev.com/ghpvc/?username=KenNguch&color=2478b7)
-
+![](https://komarev.com/ghpvc/?username=KenNguch&color=green)
