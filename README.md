@@ -56,11 +56,11 @@ Here are a few things I've picked up along my learning journey.
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   12 hrs 20 mins  ████████████████▒░░░░░░░░   65.94 % 
-YAML         3 hrs 46 mins   █████░░░░░░░░░░░░░░░░░░░░   20.15 % 
-Python       31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
-VB.NET       29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
-Dockerfile   28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
+JavaScript   13 hrs 19 mins  ████████████████▓░░░░░░░░   67.30 % 
+YAML         4 hrs 8 mins    █████▒░░░░░░░░░░░░░░░░░░░   20.93 % 
+VB.NET       32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
+Dockerfile   28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
+JSON         27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
 ```
 <!--END_SECTION:waka-->
 <br>
