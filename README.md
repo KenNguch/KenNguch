@@ -56,11 +56,9 @@ Here are a few things I've picked up along my learning journey.
 
 <!--START_SECTION:waka-->
 ```text
-Docker       54 mins         ███████▒░░░░░░░░░░░░░░░░░   29.66 % 
-ASP.NET      44 mins         ██████░░░░░░░░░░░░░░░░░░░   24.27 % 
-YAML         39 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.33 % 
-JavaScript   35 mins         █████░░░░░░░░░░░░░░░░░░░░   19.36 % 
-yarn.lock    3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
+ASP.NET      44 mins         ██████████████████░░░░░░░   72.48 % 
+JavaScript   13 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.19 % 
+VB.NET       3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
 ```
 <!--END_SECTION:waka-->
 <br>
