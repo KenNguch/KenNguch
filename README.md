@@ -56,7 +56,8 @@ Here are a few things I've picked up along my learning journey.
 
 <!--START_SECTION:waka-->
 ```text
-
+YAML             3 mins          ███████████▓░░░░░░░░░░░░░   46.55 % 
+JavaScript       2 mins          █████████▓░░░░░░░░░░░░░░░   39.12 % 
 ```
 <!--END_SECTION:waka-->
 <br>
