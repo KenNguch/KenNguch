@@ -56,11 +56,11 @@ Here are a few things I've picked up along my learning journey.
 
 <!--START_SECTION:waka-->
 ```text
-YAML        9 hrs 13 mins   ████████████▓░░░░░░░░░░░░   50.91 % 
-VB.NET      2 hrs 40 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.76 % 
-textmate    1 hr 15 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
-.env file   1 hr 7 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
-Docker      53 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
+YAML        8 hrs 56 mins   ████████████▓░░░░░░░░░░░░   51.03 % 
+VB.NET      2 hrs 40 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.28 % 
+textmate    1 hr 15 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
+.env file   1 hr 7 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.42 % 
+Docker      53 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
 ```
 <!--END_SECTION:waka-->
 <br>
