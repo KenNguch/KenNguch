@@ -56,11 +56,11 @@ Here are a few things I've picked up along my learning journey.
 
 <!--START_SECTION:waka-->
 ```text
-C#               1 hr 24 mins    ████████████░░░░░░░░░░░░░   47.49 % 
-VB.NET           48 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.02 % 
-Config           20 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
-YAML             17 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
-GitIgnore file   3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
+C#               1 hr 20 mins    █████████████████▓░░░░░░░   70.48 % 
+Config           20 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.08 % 
+VB.NET           6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
+GitIgnore file   3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
+Other            2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
 ```
 <!--END_SECTION:waka-->
 <br>
