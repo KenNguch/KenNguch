@@ -56,8 +56,8 @@ Here are a few things I've picked up along my learning journey.
 
 <!--START_SECTION:waka-->
 ```text
-C#        1 hr 33 mins    ███████████████████████▓░   95.24 % 
-VB.NET    4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
+C#        1 hr 21 mins    ███████████████████████▓░   95.01 % 
+VB.NET    4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
 ```
 <!--END_SECTION:waka-->
 <br>
