@@ -56,7 +56,9 @@ Here are a few things I've picked up along my learning journey.
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+VB.NET    2 hrs 26 mins   ███████████████▒░░░░░░░░░   60.70 % 
+ASP.NET   1 hr 26 mins    █████████░░░░░░░░░░░░░░░░   35.76 % 
+C#        8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
 ```
 <!--END_SECTION:waka-->
 <br>
