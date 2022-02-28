@@ -55,12 +55,15 @@ Here are a few things I've picked up along my learning journey.
 <br>
 
 <!--START_SECTION:waka-->
+
 ```text
-VB.NET    6 hrs 26 mins   ████████████████▓░░░░░░░░   66.89 % 
-ASP.NET   2 hrs 49 mins   ███████▒░░░░░░░░░░░░░░░░░   29.25 % 
-C#        19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
-XML       2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+VB.NET    6 hrs 26 mins   ████████████████▓░░░░░░░░   66.89 %
+ASP.NET   2 hrs 49 mins   ███████▒░░░░░░░░░░░░░░░░░   29.25 %
+C#        19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 %
+XML       2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
+Other     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
+
 <!--END_SECTION:waka-->
 <br>
 <a href="#">
