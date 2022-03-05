@@ -57,8 +57,7 @@ Here are a few things I've picked up along my learning journey.
 <!--START_SECTION:waka-->
 
 ```text
-XML   2 mins          ██████████████████████░░░   88.20 %
-C#    0 secs          ███░░░░░░░░░░░░░░░░░░░░░░   11.80 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
