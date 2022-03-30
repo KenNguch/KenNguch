@@ -57,10 +57,8 @@ Here are a few things I've picked up along my learning journey.
 <!--START_SECTION:waka-->
 
 ```text
-Java             51 mins         ████████████████▒░░░░░░░░   65.43 %
-YAML             22 mins         ███████░░░░░░░░░░░░░░░░░░   28.33 %
-Properties       4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.11 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+ASP.NET   0 secs          █████████████████████████   100.00 %
+C#        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
