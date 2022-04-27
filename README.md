@@ -57,11 +57,9 @@ Here are a few things I've picked up along my learning journey.
 <!--START_SECTION:waka-->
 
 ```text
-C#              1 hr 43 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.61 %
-YAML            1 hr 16 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.07 %
-Java            1 hr 1 min      ███▒░░░░░░░░░░░░░░░░░░░░░   12.93 %
-Docker          52 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.09 %
-Other           50 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.53 %
+C#              5 hrs 11 mins   ██████████▓░░░░░░░░░░░░░░   43.01 %
+YAML            1 hr 27 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.15 %
+Other           1 hr 15 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.50 %
 ```
 
 <!--END_SECTION:waka-->
