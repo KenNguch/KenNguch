@@ -57,12 +57,12 @@ Here are a few things I've picked up along my learning journey.
 <!--START_SECTION:waka-->
 
 ```text
-Java             10 hrs 44 mins  ████████████▓░░░░░░░░░░░░   50.29 %
-VB.NET           8 hrs           █████████▒░░░░░░░░░░░░░░░   37.48 %
-YAML             1 hr 6 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.15 %
-Properties       32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 %
-XML              14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
-GitIgnore file   12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
+Java             10 hrs 44 mins  ███████████████▒░░░░░░░░░   61.99 %
+VB.NET           3 hrs 54 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.55 %
+YAML             1 hr 6 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.35 %
+Properties       32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 %
+XML              14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
+GitIgnore file   12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
 ```
 
 <!--END_SECTION:waka-->
