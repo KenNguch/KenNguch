@@ -57,10 +57,8 @@ Here are a few things I've picked up along my learning journey.
 <!--START_SECTION:waka-->
 
 ```text
-C#            4 hrs           ███████████▓░░░░░░░░░░░░░   46.10 %
-Java          1 hr 44 mins    █████░░░░░░░░░░░░░░░░░░░░   19.98 %
-VB.NET        1 hr 5 mins     ███░░░░░░░░░░░░░░░░░░░░░░   12.46 %
-Other         55 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.61 %
+C#            3 hrs 28 mins   ███████████▓░░░░░░░░░░░░░   46.10 %
+Other         1 hr 7 mins     ███▓░░░░░░░░░░░░░░░░░░░░░   14.89 %
 ```
 
 <!--END_SECTION:waka-->
