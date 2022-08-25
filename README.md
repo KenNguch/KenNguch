@@ -57,8 +57,8 @@ Here are a few things I've picked up along my learning journey.
 <!--START_SECTION:waka-->
 
 ```text
-C#            4 hrs 53 mins   ██████████░░░░░░░░░░░░░░░   39.48 %
-Other         4 hrs 9 mins    ████████▒░░░░░░░░░░░░░░░░   33.55 %
+C#            4 hrs 51 mins   ██████████▓░░░░░░░░░░░░░░   42.80 %
+Other         3 hrs 51 mins   ████████▓░░░░░░░░░░░░░░░░   34.00 %
 ```
 
 <!--END_SECTION:waka-->
