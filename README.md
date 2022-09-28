@@ -57,7 +57,7 @@ Here are a few things I've picked up along my learning journey.
 <!--START_SECTION:waka-->
 
 ```text
-Other            27 hrs 52 mins  █████████████████▓░░░░░░░   70.65 %
+Other            27 hrs 40 mins  ██████████████████▒░░░░░░   73.09 %
 ```
 
 <!--END_SECTION:waka-->
