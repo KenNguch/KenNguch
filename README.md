@@ -57,12 +57,12 @@ Here are a few things I've picked up along my learning journey.
 <!--START_SECTION:waka-->
 
 ```text
-Java                   2 hrs 21 mins   █████████████░░░░░░░░░░░░   51.49 %
-Properties             1 hr 2 mins     █████▓░░░░░░░░░░░░░░░░░░░   22.81 %
-XML                    35 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.85 %
-YAML                   15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.61 %
-spring.factories       12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 %
-GitIgnore file         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
+Java               17 mins         █████████▒░░░░░░░░░░░░░░░   37.66 %
+XML                11 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.41 %
+Properties         9 mins          █████▒░░░░░░░░░░░░░░░░░░░   20.93 %
+GitIgnore file     3 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 %
+Shell Script       3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.62 %
+YAML               0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
 ```
 
 <!--END_SECTION:waka-->
