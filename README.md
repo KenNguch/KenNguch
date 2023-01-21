@@ -57,7 +57,8 @@ Here are a few things I've picked up along my learning journey.
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Java         4 mins          ████████████████████████░   95.70 %
+Properties   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 %
 ```
 
 <!--END_SECTION:waka-->
