@@ -57,12 +57,12 @@ Here are a few things I've picked up along my learning journey.
 <!--START_SECTION:waka-->
 
 ```text
-Java            18 hrs 54 mins  █████████████████████▒░░░   84.98 %
-Properties      2 hrs 8 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.62 %
-YAML            39 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 %
-XML             20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
-Bash            5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
-.env file       5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
+Java            15 hrs 47 mins  █████████████████████▒░░░   84.75 %
+Properties      1 hr 39 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.94 %
+YAML            39 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 %
+XML             18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
+Bash            5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
+.env file       5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
 ```
 
 <!--END_SECTION:waka-->
