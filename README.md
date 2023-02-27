@@ -57,8 +57,8 @@ Here are a few things I've picked up along my learning journey.
 <!--START_SECTION:waka-->
 
 ```text
-Java               19 hrs 26 mins  ███████████████████▓░░░░░   79.19 %
-YAML               1 hr 58 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 %
+Java               19 hrs 26 mins  ███████████████████▓░░░░░   79.16 %
+YAML               1 hr 58 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 %
 Properties         1 hr 27 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.97 %
 XML                41 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.81 %
 SQL                24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
