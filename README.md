@@ -57,11 +57,11 @@ Here are a few things I've picked up along my learning journey.
 <!--START_SECTION:waka-->
 
 ```txt
-PHP                                    3 hrs 43 mins   ████████████▓░░░░░░░░░░░░   50.92 %
-Java                                   3 hrs 4 mins    ██████████▒░░░░░░░░░░░░░░   41.93 %
-Java Properties                        20 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.68 %
-spring-boot-configuration-properties   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
-ActionScript                           2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
+PHP                                    11 hrs 30 mins  ██████████████████░░░░░░░   72.60 %
+Java                                   3 hrs 25 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.56 %
+Bash                                   21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
+Java Properties                        14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
+YAML                                   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
 ```
 
 <!--END_SECTION:waka-->
