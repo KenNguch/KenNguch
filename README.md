@@ -57,7 +57,7 @@ Here are a few things I've picked up along my learning journey.
 <!--START_SECTION:waka-->
 
 ```txt
-PHP                                    15 hrs 6 mins   ███████████████████▓░░░░░   78.31 %
+PHP                                    15 hrs 5 mins   ███████████████████▓░░░░░   78.29 %
 Java                                   2 hrs 44 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.20 %
 Bash                                   24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
 JSON                                   14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
