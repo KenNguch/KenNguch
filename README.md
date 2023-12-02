@@ -57,11 +57,11 @@ Here are a few things I've picked up along my learning journey.
 <!--START_SECTION:waka-->
 
 ```txt
-Java                                   12 hrs 57 mins  ████████████████████░░░░░   79.66 %
-XML                                    1 hr 39 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.17 %
-SQL                                    43 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 %
-spring-boot-configuration-properties   30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.12 %
-Java Properties                        8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
+Java                                   15 hrs 3 mins   ████████████████████▒░░░░   81.51 %
+XML                                    1 hr 39 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.98 %
+SQL                                    43 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 %
+spring-boot-configuration-properties   36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.25 %
+Java Properties                        15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
 ```
 
 <!--END_SECTION:waka-->
