@@ -57,8 +57,8 @@ Here are a few things I've picked up along my learning journey.
 <!--START_SECTION:waka-->
 
 ```txt
-Java                                   9 hrs 3 mins    █████████████████████░░░░   84.46 %
-XML                                    1 hr 11 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.11 %
+Java                                   9 hrs 5 mins    █████████████████████░░░░   84.50 %
+XML                                    1 hr 11 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.08 %
 Java Properties                        10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
 Kotlin                                 5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
 GitIgnore file                         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
