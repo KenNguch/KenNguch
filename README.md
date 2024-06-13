@@ -57,11 +57,11 @@ Here are a few things I've picked up along my learning journey.
 <!--START_SECTION:waka-->
 
 ```txt
-Java                  12 hrs 1 min    ████████████████████▒░░░░   81.33 %
-XML                   1 hr 9 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 %
-JSON                  1 hr 9 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 %
-Java Properties       9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
-GitIgnore file        8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
+Java                  15 hrs          █████████████████████▒░░░   85.30 %
+XML                   1 hr 51 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.54 %
+Properties            15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
+Java Properties       13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
+GitIgnore file        5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
 ```
 
 <!--END_SECTION:waka-->
