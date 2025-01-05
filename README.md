@@ -59,7 +59,7 @@ Here are a few things I've picked up along my learning journey.
 ```txt
 Java         2 hrs 7 mins    █████████████████████████   99.61 %
 XML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
-Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
