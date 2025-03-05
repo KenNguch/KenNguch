@@ -57,11 +57,11 @@ Here are a few things I've picked up along my learning journey.
 <!--START_SECTION:waka-->
 
 ```txt
-Java             9 hrs 28 mins   █████████████████▓░░░░░░░   71.08 %
-XML              2 hrs 32 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.11 %
-TypeScript       1 hr 5 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 %
-JSON             4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
-HTML             2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
+Java             10 hrs 9 mins   ██████████████████░░░░░░░   72.50 %
+XML              2 hrs 32 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.16 %
+TypeScript       1 hr 5 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 %
+JSON             4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
+HTML             2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
 ```
 
 <!--END_SECTION:waka-->
