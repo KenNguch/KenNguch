@@ -57,11 +57,11 @@ Here are a few things I've picked up along my learning journey.
 <!--START_SECTION:waka-->
 
 ```txt
-Java              10 hrs 40 mins  ███████████████████▓░░░░░   78.91 %
-XML               1 hr 26 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.68 %
-Properties        27 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 %
-Bash              12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
-SmartyConfig      8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
+Java              9 hrs 43 mins   ███████████████████▓░░░░░   78.03 %
+XML               1 hr 27 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.67 %
+Properties        28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 %
+Bash              12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
+SmartyConfig      8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
 ```
 
 <!--END_SECTION:waka-->
