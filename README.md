@@ -57,11 +57,11 @@ Here are a few things I've picked up along my learning journey.
 <!--START_SECTION:waka-->
 
 ```txt
-Java                           19 hrs 45 mins  █████████████████████░░░░   83.59 %
-Bash                           1 hr 9 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.92 %
-TypeScript                     56 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 %
-BashSupport Pro Shell Script   30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
-JSON                           26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
+Java                           16 hrs 31 mins  ████████████████████░░░░░   80.40 %
+Bash                           1 hr 32 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 %
+TypeScript                     46 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 %
+BashSupport Pro Shell Script   30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
+JSON                           25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
 ```
 
 <!--END_SECTION:waka-->
