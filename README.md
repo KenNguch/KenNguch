@@ -57,9 +57,7 @@ Here are a few things I've picked up along my learning journey.
 <!--START_SECTION:waka-->
 
 ```txt
-Java   1 hr 17 mins          ████████████████████████▓   98.96 %
-XML    0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
-HTML   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
+Java   1 hr 17 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
